@@ -17,7 +17,7 @@ class Ogre19 < Formula
   devel do
     url 'https://bitbucket.org/sinbad/ogre/get/v1-9.tar.bz2'
     version '1.9.1-devel'
-    sha1 '4036621e8ce2af77f3ed77a61e1976de6d722d3b'
+    sha1 '3f1b3ccf10506b578d1cfefee914e0483e4f493d'
 
     patch do
       url 'https://gist.github.com/NikolausDemmel/2b11d1b49b35cd27a102/raw/bf4a4d16020821218f73db0d56aa111ab2fde679/fix-1.9-HEAD.diff'
